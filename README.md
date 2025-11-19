@@ -22,10 +22,10 @@
 ---
 
 ### Technologies Used
--Frontend: React.js
--Authentication: firebase
--Styling: Tailwind CSS
--Deployment: firebase
+- Frontend: React.js
+- Authentication: firebase
+- Styling: Tailwind CSS
+- Deployment: firebase
 
 ### Dependences 
 To initialze the app you have to added firebase auth in an .env file.
